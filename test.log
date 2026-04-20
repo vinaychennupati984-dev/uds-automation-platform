@@ -1,0 +1,20 @@
+2026-04-19 15:27:44,464 - WARNING -  * Debugger is active!
+2026-04-19 15:27:44,470 - INFO -  * Debugger PIN: 961-297-993
+2026-04-19 15:27:48,209 - INFO - Read DID request: 0xF190
+2026-04-19 15:27:48,212 - INFO - 127.0.0.1 - - [19/Apr/2026 15:27:48] "GET /read_did?did=0xF190 HTTP/1.1" 200 -
+2026-04-19 15:27:48,233 - INFO - Session request received: 0x10
+2026-04-19 15:27:48,234 - INFO - Positive response
+2026-04-19 15:27:48,236 - INFO - 127.0.0.1 - - [19/Apr/2026 15:27:48] "POST /session HTTP/1.1" 200 -
+2026-04-19 15:27:48,247 - INFO - Session request received: 0x99
+2026-04-19 15:27:48,248 - WARNING - Invalid session request
+2026-04-19 15:27:48,248 - INFO - 127.0.0.1 - - [19/Apr/2026 15:27:48] "POST /session HTTP/1.1" 200 -
+2026-04-19 15:27:48,259 - INFO - 127.0.0.1 - - [19/Apr/2026 15:27:48] "[31m[1mPOST /session HTTP/1.1[0m" 400 -
+2026-04-19 15:27:48,270 - INFO - Read DID request: 0xF190
+2026-04-19 15:27:48,270 - INFO - 127.0.0.1 - - [19/Apr/2026 15:27:48] "GET /read_did?did=0xF190 HTTP/1.1" 200 -
+2026-04-19 15:27:48,281 - INFO - Read DID request: 0x0000
+2026-04-19 15:27:48,281 - WARNING - DID not found
+2026-04-19 15:27:48,282 - INFO - 127.0.0.1 - - [19/Apr/2026 15:27:48] "GET /read_did?did=0x0000 HTTP/1.1" 200 -
+2026-04-19 15:27:48,291 - INFO - 127.0.0.1 - - [19/Apr/2026 15:27:48] "[31m[1mGET /read_did HTTP/1.1[0m" 400 -
+2026-04-19 15:27:48,318 - INFO - Session request received: 0x10
+2026-04-19 15:27:48,318 - INFO - Positive response
+2026-04-19 15:27:48,318 - INFO - 127.0.0.1 - - [19/Apr/2026 15:27:48] "POST /session HTTP/1.1" 200 -
