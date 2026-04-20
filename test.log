@@ -18,3 +18,4 @@
 2026-04-19 15:27:48,318 - INFO - Session request received: 0x10
 2026-04-19 15:27:48,318 - INFO - Positive response
 2026-04-19 15:27:48,318 - INFO - 127.0.0.1 - - [19/Apr/2026 15:27:48] "POST /session HTTP/1.1" 200 -
+2026-04-20 15:31:13,652 - INFO -  * Detected change in 'C:\\python\\vs_python\\uds-automation-platform\\main.py', reloading
